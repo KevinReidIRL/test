@@ -2,8 +2,8 @@
 <body>
 
 <form action="file2.php" method="post">
-Name: <input type="text" name="name"><br>
-E-mail: <input type="text" name="email"><br>
+What is the name of your favourite book <input type="text" name="name"><br>
+
 <input type="submit">
 </form>
 
